@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kaavyy Gupta<br>I'm currently enrolled in software engineering in university of Waterloo<br>I'm passionate about learning<br>I'm determined to learn new things<br>
+I'm Kaavyy Gupta<br>I'm currently enrolled in software engineering in university of Waterloo<br>
 
 
 ## 🌐 Socials:
