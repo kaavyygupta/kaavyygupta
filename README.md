@@ -1,11 +1,10 @@
 # 💫 About Me:
 Hi, I'm Kaavyy 👋
 
-💻 Software Engineering student at the University of Waterloo
-🚀 Passionate about coding, software development, and innovation
-🧠 Open-minded, broad-minded, and driven by continuous learning
-🌱 Exploring new technologies and building meaningful projects
-<br>
+💻 Software Engineering student at the University of Waterloo<br>
+🚀 Passionate about coding, software development, and innovation<br> 
+🧠 Open-minded, broad-minded, and driven by continuous learning<br>
+🌱 Exploring new technologies and building meaningful projects<br>
 
 
 ## 🌐 Socials:
